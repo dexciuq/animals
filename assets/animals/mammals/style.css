@@ -1,0 +1,121 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway';
+    color: white;
+    font-size: 15px;
+    background-color: black;
+    letter-spacing: 0.05em;
+}
+h1 h2 h3 h4 h5 h6 {
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+ul li {
+    display: block;
+}
+.container {
+    width: 1110px;
+    height: 40px;
+    margin: 0 auto;
+}
+.svgg{
+    position: static;
+    width: 37px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 7px;
+}
+.logo{
+    height: 37px;
+    width: 37px;
+}
+#logo-text{
+    position: absolute;
+    width: 87px;
+    height: 21px;
+    margin-left: 15px;
+    top: 44px;
+    font-size: 20px;
+}
+header a {
+    color: white;
+}
+.menu{
+    display: flex;
+    margin-left: auto;
+}
+.menu li a {
+    text-decoration: none;
+}
+.menu li {
+    margin: 0 50px;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 71px;
+}
+.main{
+    width: 1110px;
+    margin: 0 auto;
+}
+.main-text{
+    font-size: 30px;
+    margin-top: 55px;
+    margin-left: 450px;
+    text-transform: uppercase;
+}
+.name{
+    margin-top: 15px;
+    margin-left: 500px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.picOne{
+    height: 225px;
+    width: 310px;
+    margin-left: 75px;
+}
+.picTwo{
+    height: 250px;
+    width: 400px;
+}
+.picThree{
+    height: 350px;
+    width: 250px;
+    margin-left: 140px;
+}
+.pictures{
+    float: left;
+    clear: none;
+    border-radius: 2%;
+}
+
+.information{
+    text-indent: 30px;
+    margin-left: 440px;
+}
+
+.end{
+    display: block;
+    background-color: rgb(64, 199, 109);
+    height: 60px;
+    width: 1110px;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 1%;
+}
+.end-txt{
+    padding: 11px;
+    width: 800px;
+    margin-left: 140px;
+    font-size: 12px;
+    font-weight: 700;
+}
