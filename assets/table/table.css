@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway';
+    color: white;
+    font-size: 15px;
+    background-color: black;
+    letter-spacing: 0.05em;
+}
+.container{
+    max-width: 1200px;
+}
+nav{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.bg-black{
+    background-color: black !important;
+}
+.nav-item{
+    margin-right: 50px;
+}
+ul a{
+    color: white !important;
+}
+hr{
+    height: 3px !important;
+    opacity: 1;
+}
+.non-change{
+    color: white;
+}
+.rounded{
+    border-radius: 13px !important;
+}
+.btn{
+    min-width: 60px;
+    margin-left: 10px !important;
+    margin-right: 40px !important;
+}
+.btn-success{
+    background: rgb(64,199,129);
+    font-weight: 700;
+}
+
+.footer{
+    margin-bottom: 100px;
+}
+.footer-txt{
+    background-color: rgb(64,199,129);
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
