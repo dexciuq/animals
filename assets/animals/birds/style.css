@@ -1,0 +1,80 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway';
+    color: white;
+    font-size: 15px;
+    background-color: black;
+    letter-spacing: 0.05em;
+}
+.container{
+    max-width: 1200px;
+}
+nav{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.bg-black{
+    background-color: black !important;
+}
+.nav-item{
+    margin-right: 50px;
+}
+ul a{
+    color: white !important;
+}
+hr{
+    height: 3px !important;
+    opacity: 1;
+    margin-bottom: 20px;
+}
+.non-change{
+    color: white;
+}
+
+.main-title{
+    font-weight: bolder;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+span{
+    color: rgb(64,199,129);
+    transition: all 0.5s ease !important;
+}
+
+.name{
+    text-align: start;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    margin-left: 15px;
+}
+
+.pictures{
+    float: right;
+    border-radius: 2%;
+    height: auto;
+    max-width: 380px;
+    padding-right: 30px;
+    margin-left: 15px;
+    padding-bottom: 30px;
+}
+
+.information{
+    text-indent: 30px;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 12px;
+}
+
+.footer{
+    margin-top: 80px;
+}
+.footer-txt{
+    background-color: rgb(64,199,129);
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
